@@ -1,0 +1,645 @@
+PS C:\Users\zhang\OneDrive\桌面\大三下学习资料\机器学习\实验\21311071_张宇鹏_实验八> & D:/Anaconda/python.exe c:/Users/zhang/OneDrive/桌面/大三下学习资料/机器学习/实验/21311071_张宇鹏_实验八/softmax_regression.py
+测试集准确率: 71.01 %
+Epoch [1/80], Step [50/235], Loss: 0.8367, Accuracy: 71.01%
+测试集准确率: 75.71 %
+Epoch [1/80], Step [100/235], Loss: 0.7159, Accuracy: 75.71%
+测试集准确率: 76.92 %
+Epoch [1/80], Step [150/235], Loss: 0.7069, Accuracy: 76.92%
+测试集准确率: 76.71 %
+Epoch [1/80], Step [200/235], Loss: 0.6994, Accuracy: 76.71%
+测试集准确率: 80.03 %
+Epoch [2/80], Step [50/235], Loss: 0.6175, Accuracy: 80.03%
+测试集准确率: 80.06 %
+Epoch [2/80], Step [100/235], Loss: 0.5740, Accuracy: 80.06%
+测试集准确率: 80.82 %
+Epoch [2/80], Step [150/235], Loss: 0.5992, Accuracy: 80.82%
+测试集准确率: 80.99 %
+Epoch [2/80], Step [200/235], Loss: 0.4738, Accuracy: 80.99%
+测试集准确率: 81.22 %
+Epoch [3/80], Step [50/235], Loss: 0.4958, Accuracy: 81.22%
+测试集准确率: 81.35 %
+Epoch [3/80], Step [100/235], Loss: 0.4883, Accuracy: 81.35%
+测试集准确率: 81.93 %
+Epoch [3/80], Step [150/235], Loss: 0.4807, Accuracy: 81.93%
+测试集准确率: 81.75 %
+Epoch [3/80], Step [200/235], Loss: 0.5218, Accuracy: 81.75%
+测试集准确率: 82.09 %
+Epoch [4/80], Step [50/235], Loss: 0.5210, Accuracy: 82.09%
+测试集准确率: 82.43 %
+Epoch [4/80], Step [100/235], Loss: 0.4959, Accuracy: 82.43%
+测试集准确率: 81.92 %
+Epoch [4/80], Step [150/235], Loss: 0.4865, Accuracy: 81.92%
+测试集准确率: 82.04 %
+Epoch [4/80], Step [200/235], Loss: 0.5094, Accuracy: 82.04%
+测试集准确率: 82.31 %
+Epoch [5/80], Step [50/235], Loss: 0.4518, Accuracy: 82.31%
+测试集准确率: 82.7 %
+Epoch [5/80], Step [100/235], Loss: 0.4901, Accuracy: 82.70%
+测试集准确率: 82.85 %
+Epoch [5/80], Step [150/235], Loss: 0.5512, Accuracy: 82.85%
+测试集准确率: 81.9 %
+Epoch [5/80], Step [200/235], Loss: 0.4561, Accuracy: 81.90%
+测试集准确率: 83.06 %
+Epoch [6/80], Step [50/235], Loss: 0.4703, Accuracy: 83.06%
+测试集准确率: 82.87 %
+Epoch [6/80], Step [100/235], Loss: 0.5196, Accuracy: 82.87%
+测试集准确率: 82.32 %
+Epoch [6/80], Step [150/235], Loss: 0.5070, Accuracy: 82.32%
+测试集准确率: 82.45 %
+Epoch [6/80], Step [200/235], Loss: 0.4960, Accuracy: 82.45%
+测试集准确率: 82.96 %
+Epoch [7/80], Step [50/235], Loss: 0.5908, Accuracy: 82.96%
+测试集准确率: 83.07 %
+Epoch [7/80], Step [100/235], Loss: 0.4504, Accuracy: 83.07%
+测试集准确率: 83.0 %
+Epoch [7/80], Step [150/235], Loss: 0.5020, Accuracy: 83.00%
+测试集准确率: 83.19 %
+Epoch [7/80], Step [200/235], Loss: 0.5376, Accuracy: 83.19%
+测试集准确率: 83.09 %
+Epoch [8/80], Step [50/235], Loss: 0.4122, Accuracy: 83.09%
+测试集准确率: 83.1 %
+Epoch [8/80], Step [100/235], Loss: 0.4734, Accuracy: 83.10%
+测试集准确率: 83.34 %
+Epoch [8/80], Step [150/235], Loss: 0.3772, Accuracy: 83.34%
+测试集准确率: 82.89 %
+Epoch [8/80], Step [200/235], Loss: 0.4178, Accuracy: 82.89%
+测试集准确率: 83.14 %
+Epoch [9/80], Step [50/235], Loss: 0.4027, Accuracy: 83.14%
+测试集准确率: 82.55 %
+Epoch [9/80], Step [100/235], Loss: 0.4709, Accuracy: 82.55%
+测试集准确率: 83.35 %
+Epoch [9/80], Step [150/235], Loss: 0.4512, Accuracy: 83.35%
+测试集准确率: 83.18 %
+Epoch [9/80], Step [200/235], Loss: 0.3892, Accuracy: 83.18%
+测试集准确率: 83.56 %
+Epoch [10/80], Step [50/235], Loss: 0.3649, Accuracy: 83.56%
+测试集准确率: 83.34 %
+Epoch [10/80], Step [100/235], Loss: 0.4428, Accuracy: 83.34%
+测试集准确率: 83.51 %
+Epoch [10/80], Step [150/235], Loss: 0.5360, Accuracy: 83.51%
+测试集准确率: 82.52 %
+Epoch [10/80], Step [200/235], Loss: 0.4124, Accuracy: 82.52%
+测试集准确率: 83.2 %
+Epoch [11/80], Step [50/235], Loss: 0.4094, Accuracy: 83.20%
+测试集准确率: 83.56 %
+Epoch [11/80], Step [100/235], Loss: 0.5094, Accuracy: 83.56%
+测试集准确率: 83.42 %
+Epoch [11/80], Step [150/235], Loss: 0.3802, Accuracy: 83.42%
+测试集准确率: 83.2 %
+Epoch [11/80], Step [200/235], Loss: 0.5114, Accuracy: 83.20%
+测试集准确率: 83.76 %
+Epoch [12/80], Step [50/235], Loss: 0.4696, Accuracy: 83.76%
+测试集准确率: 82.65 %
+Epoch [12/80], Step [100/235], Loss: 0.4472, Accuracy: 82.65%
+测试集准确率: 83.5 %
+Epoch [12/80], Step [150/235], Loss: 0.4873, Accuracy: 83.50%
+测试集准确率: 83.12 %
+Epoch [12/80], Step [200/235], Loss: 0.3870, Accuracy: 83.12%
+测试集准确率: 83.56 %
+Epoch [13/80], Step [50/235], Loss: 0.4380, Accuracy: 83.56%
+测试集准确率: 83.58 %
+Epoch [13/80], Step [100/235], Loss: 0.4126, Accuracy: 83.58%
+测试集准确率: 83.56 %
+Epoch [13/80], Step [150/235], Loss: 0.5348, Accuracy: 83.56%
+测试集准确率: 83.42 %
+Epoch [13/80], Step [200/235], Loss: 0.4674, Accuracy: 83.42%
+测试集准确率: 83.92 %
+Epoch [14/80], Step [50/235], Loss: 0.4478, Accuracy: 83.92%
+测试集准确率: 83.69 %
+Epoch [14/80], Step [100/235], Loss: 0.4432, Accuracy: 83.69%
+测试集准确率: 83.51 %
+Epoch [14/80], Step [150/235], Loss: 0.4836, Accuracy: 83.51%
+测试集准确率: 83.85 %
+Epoch [14/80], Step [200/235], Loss: 0.4313, Accuracy: 83.85%
+测试集准确率: 83.24 %
+Epoch [15/80], Step [50/235], Loss: 0.4512, Accuracy: 83.24%
+测试集准确率: 84.0 %
+Epoch [15/80], Step [100/235], Loss: 0.4145, Accuracy: 84.00%
+测试集准确率: 83.82 %
+Epoch [15/80], Step [150/235], Loss: 0.4743, Accuracy: 83.82%
+测试集准确率: 83.64 %
+Epoch [15/80], Step [200/235], Loss: 0.4274, Accuracy: 83.64%
+测试集准确率: 83.87 %
+Epoch [16/80], Step [50/235], Loss: 0.4338, Accuracy: 83.87%
+测试集准确率: 83.59 %
+Epoch [16/80], Step [100/235], Loss: 0.4776, Accuracy: 83.59%
+测试集准确率: 83.22 %
+Epoch [16/80], Step [150/235], Loss: 0.4648, Accuracy: 83.22%
+测试集准确率: 83.68 %
+Epoch [16/80], Step [200/235], Loss: 0.5164, Accuracy: 83.68%
+测试集准确率: 83.82 %
+Epoch [17/80], Step [50/235], Loss: 0.3515, Accuracy: 83.82%
+测试集准确率: 83.72 %
+Epoch [17/80], Step [100/235], Loss: 0.3717, Accuracy: 83.72%
+测试集准确率: 83.89 %
+Epoch [17/80], Step [150/235], Loss: 0.4676, Accuracy: 83.89%
+测试集准确率: 84.06 %
+Epoch [17/80], Step [200/235], Loss: 0.4770, Accuracy: 84.06%
+测试集准确率: 83.4 %
+Epoch [18/80], Step [50/235], Loss: 0.3663, Accuracy: 83.40%
+测试集准确率: 83.72 %
+Epoch [18/80], Step [100/235], Loss: 0.4749, Accuracy: 83.72%
+测试集准确率: 84.02 %
+Epoch [18/80], Step [150/235], Loss: 0.4308, Accuracy: 84.02%
+测试集准确率: 83.94 %
+Epoch [18/80], Step [200/235], Loss: 0.4100, Accuracy: 83.94%
+测试集准确率: 83.84 %
+Epoch [19/80], Step [50/235], Loss: 0.4102, Accuracy: 83.84%
+测试集准确率: 83.64 %
+Epoch [19/80], Step [100/235], Loss: 0.4538, Accuracy: 83.64%
+测试集准确率: 84.14 %
+Epoch [19/80], Step [150/235], Loss: 0.3961, Accuracy: 84.14%
+测试集准确率: 83.74 %
+Epoch [19/80], Step [200/235], Loss: 0.3899, Accuracy: 83.74%
+测试集准确率: 83.87 %
+Epoch [20/80], Step [50/235], Loss: 0.3246, Accuracy: 83.87%
+测试集准确率: 83.92 %
+Epoch [20/80], Step [100/235], Loss: 0.4507, Accuracy: 83.92%
+测试集准确率: 83.8 %
+Epoch [20/80], Step [150/235], Loss: 0.4281, Accuracy: 83.80%
+测试集准确率: 83.96 %
+Epoch [20/80], Step [200/235], Loss: 0.3847, Accuracy: 83.96%
+测试集准确率: 84.09 %
+Epoch [21/80], Step [50/235], Loss: 0.3543, Accuracy: 84.09%
+测试集准确率: 84.17 %
+Epoch [21/80], Step [100/235], Loss: 0.4767, Accuracy: 84.17%
+测试集准确率: 83.85 %
+Epoch [21/80], Step [150/235], Loss: 0.4200, Accuracy: 83.85%
+测试集准确率: 83.87 %
+Epoch [21/80], Step [200/235], Loss: 0.4451, Accuracy: 83.87%
+测试集准确率: 84.15 %
+Epoch [22/80], Step [50/235], Loss: 0.3806, Accuracy: 84.15%
+测试集准确率: 83.86 %
+Epoch [22/80], Step [100/235], Loss: 0.3917, Accuracy: 83.86%
+测试集准确率: 83.95 %
+Epoch [22/80], Step [150/235], Loss: 0.5495, Accuracy: 83.95%
+测试集准确率: 84.17 %
+Epoch [22/80], Step [200/235], Loss: 0.4257, Accuracy: 84.17%
+测试集准确率: 84.05 %
+Epoch [23/80], Step [50/235], Loss: 0.4318, Accuracy: 84.05%
+测试集准确率: 83.77 %
+Epoch [23/80], Step [100/235], Loss: 0.4352, Accuracy: 83.77%
+测试集准确率: 83.99 %
+Epoch [23/80], Step [150/235], Loss: 0.4323, Accuracy: 83.99%
+测试集准确率: 83.77 %
+Epoch [23/80], Step [200/235], Loss: 0.3510, Accuracy: 83.77%
+测试集准确率: 83.57 %
+Epoch [24/80], Step [50/235], Loss: 0.3538, Accuracy: 83.57%
+测试集准确率: 83.55 %
+Epoch [24/80], Step [100/235], Loss: 0.4030, Accuracy: 83.55%
+测试集准确率: 84.01 %
+Epoch [24/80], Step [150/235], Loss: 0.3687, Accuracy: 84.01%
+测试集准确率: 83.93 %
+Epoch [24/80], Step [200/235], Loss: 0.3685, Accuracy: 83.93%
+测试集准确率: 84.12 %
+Epoch [25/80], Step [50/235], Loss: 0.4240, Accuracy: 84.12%
+测试集准确率: 83.84 %
+Epoch [25/80], Step [100/235], Loss: 0.3680, Accuracy: 83.84%
+测试集准确率: 84.04 %
+Epoch [25/80], Step [150/235], Loss: 0.4258, Accuracy: 84.04%
+测试集准确率: 83.94 %
+Epoch [25/80], Step [200/235], Loss: 0.4097, Accuracy: 83.94%
+测试集准确率: 84.1 %
+Epoch [26/80], Step [50/235], Loss: 0.3362, Accuracy: 84.10%
+测试集准确率: 84.06 %
+Epoch [26/80], Step [100/235], Loss: 0.4067, Accuracy: 84.06%
+测试集准确率: 84.08 %
+Epoch [26/80], Step [150/235], Loss: 0.3828, Accuracy: 84.08%
+测试集准确率: 84.33 %
+Epoch [26/80], Step [200/235], Loss: 0.4013, Accuracy: 84.33%
+测试集准确率: 84.14 %
+Epoch [27/80], Step [50/235], Loss: 0.4646, Accuracy: 84.14%
+测试集准确率: 84.25 %
+Epoch [27/80], Step [100/235], Loss: 0.4418, Accuracy: 84.25%
+测试集准确率: 84.08 %
+Epoch [27/80], Step [150/235], Loss: 0.4396, Accuracy: 84.08%
+测试集准确率: 84.37 %
+Epoch [27/80], Step [200/235], Loss: 0.3629, Accuracy: 84.37%
+测试集准确率: 84.16 %
+Epoch [28/80], Step [50/235], Loss: 0.3881, Accuracy: 84.16%
+测试集准确率: 84.56 %
+Epoch [28/80], Step [100/235], Loss: 0.3464, Accuracy: 84.56%
+测试集准确率: 83.76 %
+Epoch [28/80], Step [150/235], Loss: 0.3808, Accuracy: 83.76%
+测试集准确率: 84.21 %
+Epoch [28/80], Step [200/235], Loss: 0.4028, Accuracy: 84.21%
+测试集准确率: 84.24 %
+Epoch [29/80], Step [50/235], Loss: 0.4689, Accuracy: 84.24%
+测试集准确率: 84.39 %
+Epoch [29/80], Step [100/235], Loss: 0.3041, Accuracy: 84.39%
+测试集准确率: 84.11 %
+Epoch [29/80], Step [150/235], Loss: 0.3609, Accuracy: 84.11%
+测试集准确率: 84.19 %
+Epoch [29/80], Step [200/235], Loss: 0.4945, Accuracy: 84.19%
+测试集准确率: 84.13 %
+Epoch [30/80], Step [50/235], Loss: 0.4579, Accuracy: 84.13%
+测试集准确率: 84.18 %
+Epoch [30/80], Step [100/235], Loss: 0.3951, Accuracy: 84.18%
+测试集准确率: 84.15 %
+Epoch [30/80], Step [150/235], Loss: 0.3688, Accuracy: 84.15%
+测试集准确率: 84.06 %
+Epoch [30/80], Step [200/235], Loss: 0.4156, Accuracy: 84.06%
+测试集准确率: 84.39 %
+Epoch [31/80], Step [50/235], Loss: 0.4355, Accuracy: 84.39%
+测试集准确率: 84.14 %
+Epoch [31/80], Step [100/235], Loss: 0.5255, Accuracy: 84.14%
+测试集准确率: 83.99 %
+Epoch [31/80], Step [150/235], Loss: 0.3732, Accuracy: 83.99%
+测试集准确率: 84.24 %
+Epoch [31/80], Step [200/235], Loss: 0.4174, Accuracy: 84.24%
+测试集准确率: 84.13 %
+Epoch [32/80], Step [50/235], Loss: 0.3739, Accuracy: 84.13%
+测试集准确率: 84.0 %
+Epoch [32/80], Step [100/235], Loss: 0.4417, Accuracy: 84.00%
+测试集准确率: 84.36 %
+Epoch [32/80], Step [150/235], Loss: 0.3322, Accuracy: 84.36%
+测试集准确率: 84.26 %
+Epoch [32/80], Step [200/235], Loss: 0.3680, Accuracy: 84.26%
+测试集准确率: 83.99 %
+Epoch [33/80], Step [50/235], Loss: 0.4584, Accuracy: 83.99%
+测试集准确率: 84.2 %
+Epoch [33/80], Step [100/235], Loss: 0.4826, Accuracy: 84.20%
+测试集准确率: 84.35 %
+Epoch [33/80], Step [150/235], Loss: 0.4481, Accuracy: 84.35%
+测试集准确率: 84.49 %
+Epoch [33/80], Step [200/235], Loss: 0.3855, Accuracy: 84.49%
+测试集准确率: 84.25 %
+Epoch [34/80], Step [50/235], Loss: 0.4549, Accuracy: 84.25%
+测试集准确率: 84.4 %
+Epoch [34/80], Step [100/235], Loss: 0.3870, Accuracy: 84.40%
+测试集准确率: 84.3 %
+Epoch [34/80], Step [150/235], Loss: 0.3812, Accuracy: 84.30%
+测试集准确率: 84.2 %
+Epoch [34/80], Step [200/235], Loss: 0.4123, Accuracy: 84.20%
+测试集准确率: 84.2 %
+Epoch [35/80], Step [50/235], Loss: 0.4833, Accuracy: 84.20%
+测试集准确率: 84.29 %
+Epoch [35/80], Step [100/235], Loss: 0.4260, Accuracy: 84.29%
+测试集准确率: 84.21 %
+Epoch [35/80], Step [150/235], Loss: 0.4781, Accuracy: 84.21%
+测试集准确率: 84.41 %
+Epoch [35/80], Step [200/235], Loss: 0.4441, Accuracy: 84.41%
+测试集准确率: 84.3 %
+Epoch [36/80], Step [50/235], Loss: 0.4202, Accuracy: 84.30%
+测试集准确率: 84.47 %
+Epoch [36/80], Step [100/235], Loss: 0.4004, Accuracy: 84.47%
+测试集准确率: 84.45 %
+Epoch [36/80], Step [150/235], Loss: 0.4327, Accuracy: 84.45%
+测试集准确率: 84.29 %
+Epoch [36/80], Step [200/235], Loss: 0.4105, Accuracy: 84.29%
+测试集准确率: 84.35 %
+Epoch [37/80], Step [50/235], Loss: 0.3161, Accuracy: 84.35%
+测试集准确率: 84.35 %
+Epoch [37/80], Step [100/235], Loss: 0.4010, Accuracy: 84.35%
+测试集准确率: 84.37 %
+Epoch [37/80], Step [150/235], Loss: 0.3260, Accuracy: 84.37%
+测试集准确率: 84.4 %
+Epoch [37/80], Step [200/235], Loss: 0.4012, Accuracy: 84.40%
+测试集准确率: 84.26 %
+Epoch [38/80], Step [50/235], Loss: 0.5061, Accuracy: 84.26%
+测试集准确率: 84.35 %
+Epoch [38/80], Step [100/235], Loss: 0.3275, Accuracy: 84.35%
+测试集准确率: 84.36 %
+Epoch [38/80], Step [150/235], Loss: 0.2978, Accuracy: 84.36%
+测试集准确率: 84.28 %
+Epoch [38/80], Step [200/235], Loss: 0.4762, Accuracy: 84.28%
+测试集准确率: 83.94 %
+Epoch [39/80], Step [50/235], Loss: 0.4205, Accuracy: 83.94%
+测试集准确率: 84.36 %
+Epoch [39/80], Step [100/235], Loss: 0.3965, Accuracy: 84.36%
+测试集准确率: 84.34 %
+Epoch [39/80], Step [150/235], Loss: 0.4196, Accuracy: 84.34%
+测试集准确率: 84.3 %
+Epoch [39/80], Step [200/235], Loss: 0.3648, Accuracy: 84.30%
+测试集准确率: 84.37 %
+Epoch [40/80], Step [50/235], Loss: 0.4930, Accuracy: 84.37%
+测试集准确率: 84.32 %
+Epoch [40/80], Step [100/235], Loss: 0.4099, Accuracy: 84.32%
+测试集准确率: 84.26 %
+Epoch [40/80], Step [150/235], Loss: 0.4187, Accuracy: 84.26%
+测试集准确率: 84.22 %
+Epoch [40/80], Step [200/235], Loss: 0.4024, Accuracy: 84.22%
+测试集准确率: 84.1 %
+Epoch [41/80], Step [50/235], Loss: 0.4218, Accuracy: 84.10%
+测试集准确率: 84.02 %
+Epoch [41/80], Step [100/235], Loss: 0.3620, Accuracy: 84.02%
+测试集准确率: 84.32 %
+Epoch [41/80], Step [150/235], Loss: 0.3745, Accuracy: 84.32%
+测试集准确率: 84.54 %
+Epoch [41/80], Step [200/235], Loss: 0.3578, Accuracy: 84.54%
+测试集准确率: 84.29 %
+Epoch [42/80], Step [50/235], Loss: 0.4049, Accuracy: 84.29%
+测试集准确率: 84.42 %
+Epoch [42/80], Step [100/235], Loss: 0.4392, Accuracy: 84.42%
+测试集准确率: 84.34 %
+Epoch [42/80], Step [150/235], Loss: 0.3878, Accuracy: 84.34%
+测试集准确率: 84.42 %
+Epoch [42/80], Step [200/235], Loss: 0.3350, Accuracy: 84.42%
+测试集准确率: 84.46 %
+Epoch [43/80], Step [50/235], Loss: 0.4348, Accuracy: 84.46%
+测试集准确率: 84.42 %
+Epoch [43/80], Step [100/235], Loss: 0.3800, Accuracy: 84.42%
+测试集准确率: 84.29 %
+Epoch [43/80], Step [150/235], Loss: 0.4400, Accuracy: 84.29%
+测试集准确率: 84.49 %
+Epoch [43/80], Step [200/235], Loss: 0.3851, Accuracy: 84.49%
+测试集准确率: 84.17 %
+Epoch [44/80], Step [50/235], Loss: 0.3829, Accuracy: 84.17%
+测试集准确率: 84.3 %
+Epoch [44/80], Step [100/235], Loss: 0.3501, Accuracy: 84.30%
+测试集准确率: 84.44 %
+Epoch [44/80], Step [150/235], Loss: 0.4921, Accuracy: 84.44%
+测试集准确率: 84.24 %
+Epoch [44/80], Step [200/235], Loss: 0.4568, Accuracy: 84.24%
+测试集准确率: 84.48 %
+Epoch [45/80], Step [50/235], Loss: 0.4074, Accuracy: 84.48%
+测试集准确率: 84.49 %
+Epoch [45/80], Step [100/235], Loss: 0.4315, Accuracy: 84.49%
+测试集准确率: 84.33 %
+Epoch [45/80], Step [150/235], Loss: 0.4226, Accuracy: 84.33%
+测试集准确率: 84.51 %
+Epoch [45/80], Step [200/235], Loss: 0.4363, Accuracy: 84.51%
+测试集准确率: 84.42 %
+Epoch [46/80], Step [50/235], Loss: 0.4408, Accuracy: 84.42%
+测试集准确率: 84.37 %
+Epoch [46/80], Step [100/235], Loss: 0.3959, Accuracy: 84.37%
+测试集准确率: 84.34 %
+Epoch [46/80], Step [150/235], Loss: 0.3844, Accuracy: 84.34%
+测试集准确率: 84.38 %
+Epoch [46/80], Step [200/235], Loss: 0.3251, Accuracy: 84.38%
+测试集准确率: 84.43 %
+Epoch [47/80], Step [50/235], Loss: 0.4096, Accuracy: 84.43%
+测试集准确率: 84.28 %
+Epoch [47/80], Step [100/235], Loss: 0.4514, Accuracy: 84.28%
+测试集准确率: 84.4 %
+Epoch [47/80], Step [150/235], Loss: 0.3539, Accuracy: 84.40%
+测试集准确率: 84.09 %
+Epoch [47/80], Step [200/235], Loss: 0.4203, Accuracy: 84.09%
+测试集准确率: 84.28 %
+Epoch [48/80], Step [50/235], Loss: 0.3631, Accuracy: 84.28%
+测试集准确率: 84.35 %
+Epoch [48/80], Step [100/235], Loss: 0.3189, Accuracy: 84.35%
+测试集准确率: 84.04 %
+Epoch [48/80], Step [150/235], Loss: 0.4063, Accuracy: 84.04%
+测试集准确率: 84.1 %
+Epoch [48/80], Step [200/235], Loss: 0.4520, Accuracy: 84.10%
+测试集准确率: 84.22 %
+Epoch [49/80], Step [50/235], Loss: 0.3623, Accuracy: 84.22%
+测试集准确率: 84.25 %
+Epoch [49/80], Step [100/235], Loss: 0.3192, Accuracy: 84.25%
+测试集准确率: 84.49 %
+Epoch [49/80], Step [150/235], Loss: 0.4497, Accuracy: 84.49%
+测试集准确率: 84.33 %
+Epoch [49/80], Step [200/235], Loss: 0.4089, Accuracy: 84.33%
+测试集准确率: 84.32 %
+Epoch [50/80], Step [50/235], Loss: 0.4479, Accuracy: 84.32%
+测试集准确率: 84.5 %
+Epoch [50/80], Step [100/235], Loss: 0.4394, Accuracy: 84.50%
+测试集准确率: 84.36 %
+Epoch [50/80], Step [150/235], Loss: 0.2770, Accuracy: 84.36%
+测试集准确率: 84.48 %
+Epoch [50/80], Step [200/235], Loss: 0.3239, Accuracy: 84.48%
+测试集准确率: 84.36 %
+Epoch [51/80], Step [50/235], Loss: 0.4103, Accuracy: 84.36%
+测试集准确率: 84.52 %
+Epoch [51/80], Step [100/235], Loss: 0.4157, Accuracy: 84.52%
+测试集准确率: 84.47 %
+Epoch [51/80], Step [150/235], Loss: 0.4014, Accuracy: 84.47%
+测试集准确率: 84.03 %
+Epoch [51/80], Step [200/235], Loss: 0.4158, Accuracy: 84.03%
+测试集准确率: 84.42 %
+Epoch [52/80], Step [50/235], Loss: 0.4040, Accuracy: 84.42%
+测试集准确率: 84.29 %
+Epoch [52/80], Step [100/235], Loss: 0.3810, Accuracy: 84.29%
+测试集准确率: 84.43 %
+Epoch [52/80], Step [150/235], Loss: 0.3837, Accuracy: 84.43%
+测试集准确率: 84.54 %
+Epoch [52/80], Step [200/235], Loss: 0.3544, Accuracy: 84.54%
+测试集准确率: 84.3 %
+Epoch [53/80], Step [50/235], Loss: 0.3392, Accuracy: 84.30%
+测试集准确率: 84.21 %
+Epoch [53/80], Step [100/235], Loss: 0.4434, Accuracy: 84.21%
+测试集准确率: 84.33 %
+Epoch [53/80], Step [150/235], Loss: 0.3427, Accuracy: 84.33%
+测试集准确率: 84.37 %
+Epoch [53/80], Step [200/235], Loss: 0.4162, Accuracy: 84.37%
+测试集准确率: 84.34 %
+Epoch [54/80], Step [50/235], Loss: 0.3832, Accuracy: 84.34%
+测试集准确率: 84.58 %
+Epoch [54/80], Step [100/235], Loss: 0.3815, Accuracy: 84.58%
+测试集准确率: 83.76 %
+Epoch [54/80], Step [150/235], Loss: 0.4578, Accuracy: 83.76%
+测试集准确率: 84.63 %
+Epoch [54/80], Step [200/235], Loss: 0.4904, Accuracy: 84.63%
+测试集准确率: 84.43 %
+Epoch [55/80], Step [50/235], Loss: 0.3533, Accuracy: 84.43%
+测试集准确率: 84.54 %
+Epoch [55/80], Step [100/235], Loss: 0.5020, Accuracy: 84.54%
+测试集准确率: 84.55 %
+Epoch [55/80], Step [150/235], Loss: 0.4420, Accuracy: 84.55%
+测试集准确率: 84.31 %
+Epoch [55/80], Step [200/235], Loss: 0.3627, Accuracy: 84.31%
+测试集准确率: 84.39 %
+Epoch [56/80], Step [50/235], Loss: 0.4239, Accuracy: 84.39%
+测试集准确率: 84.38 %
+Epoch [56/80], Step [100/235], Loss: 0.3616, Accuracy: 84.38%
+测试集准确率: 84.4 %
+Epoch [56/80], Step [150/235], Loss: 0.3586, Accuracy: 84.40%
+测试集准确率: 83.94 %
+Epoch [56/80], Step [200/235], Loss: 0.4805, Accuracy: 83.94%
+测试集准确率: 84.53 %
+Epoch [57/80], Step [50/235], Loss: 0.4375, Accuracy: 84.53%
+测试集准确率: 84.46 %
+Epoch [57/80], Step [100/235], Loss: 0.3918, Accuracy: 84.46%
+测试集准确率: 84.38 %
+Epoch [57/80], Step [150/235], Loss: 0.4481, Accuracy: 84.38%
+测试集准确率: 84.42 %
+Epoch [57/80], Step [200/235], Loss: 0.3889, Accuracy: 84.42%
+测试集准确率: 84.01 %
+Epoch [58/80], Step [50/235], Loss: 0.3434, Accuracy: 84.01%
+测试集准确率: 84.21 %
+Epoch [58/80], Step [100/235], Loss: 0.4530, Accuracy: 84.21%
+测试集准确率: 83.7 %
+Epoch [58/80], Step [150/235], Loss: 0.3883, Accuracy: 83.70%
+测试集准确率: 84.27 %
+Epoch [58/80], Step [200/235], Loss: 0.3579, Accuracy: 84.27%
+测试集准确率: 84.26 %
+Epoch [59/80], Step [50/235], Loss: 0.3638, Accuracy: 84.26%
+测试集准确率: 84.29 %
+Epoch [59/80], Step [100/235], Loss: 0.2924, Accuracy: 84.29%
+测试集准确率: 84.44 %
+Epoch [59/80], Step [150/235], Loss: 0.4149, Accuracy: 84.44%
+测试集准确率: 84.39 %
+Epoch [59/80], Step [200/235], Loss: 0.2988, Accuracy: 84.39%
+测试集准确率: 84.49 %
+Epoch [60/80], Step [50/235], Loss: 0.3935, Accuracy: 84.49%
+测试集准确率: 84.62 %
+Epoch [60/80], Step [100/235], Loss: 0.3705, Accuracy: 84.62%
+测试集准确率: 84.34 %
+Epoch [60/80], Step [150/235], Loss: 0.4425, Accuracy: 84.34%
+测试集准确率: 84.41 %
+Epoch [60/80], Step [200/235], Loss: 0.3667, Accuracy: 84.41%
+测试集准确率: 84.52 %
+Epoch [61/80], Step [50/235], Loss: 0.2620, Accuracy: 84.52%
+测试集准确率: 84.6 %
+Epoch [61/80], Step [100/235], Loss: 0.3589, Accuracy: 84.60%
+测试集准确率: 84.36 %
+Epoch [61/80], Step [150/235], Loss: 0.4292, Accuracy: 84.36%
+测试集准确率: 84.21 %
+Epoch [61/80], Step [200/235], Loss: 0.5269, Accuracy: 84.21%
+测试集准确率: 84.49 %
+Epoch [62/80], Step [50/235], Loss: 0.3470, Accuracy: 84.49%
+测试集准确率: 84.48 %
+Epoch [62/80], Step [100/235], Loss: 0.3409, Accuracy: 84.48%
+测试集准确率: 84.46 %
+Epoch [62/80], Step [150/235], Loss: 0.4700, Accuracy: 84.46%
+测试集准确率: 84.46 %
+Epoch [62/80], Step [200/235], Loss: 0.3945, Accuracy: 84.46%
+测试集准确率: 84.5 %
+Epoch [63/80], Step [50/235], Loss: 0.3539, Accuracy: 84.50%
+测试集准确率: 84.5 %
+Epoch [63/80], Step [100/235], Loss: 0.3670, Accuracy: 84.50%
+测试集准确率: 84.42 %
+Epoch [63/80], Step [150/235], Loss: 0.3466, Accuracy: 84.42%
+测试集准确率: 84.33 %
+Epoch [63/80], Step [200/235], Loss: 0.4801, Accuracy: 84.33%
+测试集准确率: 84.48 %
+Epoch [64/80], Step [50/235], Loss: 0.3884, Accuracy: 84.48%
+测试集准确率: 84.32 %
+Epoch [64/80], Step [100/235], Loss: 0.3555, Accuracy: 84.32%
+测试集准确率: 84.45 %
+Epoch [64/80], Step [150/235], Loss: 0.3626, Accuracy: 84.45%
+测试集准确率: 84.39 %
+Epoch [64/80], Step [200/235], Loss: 0.3369, Accuracy: 84.39%
+测试集准确率: 84.66 %
+Epoch [65/80], Step [50/235], Loss: 0.4048, Accuracy: 84.66%
+测试集准确率: 84.59 %
+Epoch [65/80], Step [100/235], Loss: 0.3047, Accuracy: 84.59%
+测试集准确率: 84.38 %
+Epoch [65/80], Step [150/235], Loss: 0.3150, Accuracy: 84.38%
+测试集准确率: 84.54 %
+Epoch [65/80], Step [200/235], Loss: 0.4564, Accuracy: 84.54%
+测试集准确率: 84.34 %
+Epoch [66/80], Step [50/235], Loss: 0.2808, Accuracy: 84.34%
+测试集准确率: 84.41 %
+Epoch [66/80], Step [100/235], Loss: 0.4573, Accuracy: 84.41%
+测试集准确率: 84.32 %
+Epoch [66/80], Step [150/235], Loss: 0.4416, Accuracy: 84.32%
+测试集准确率: 84.48 %
+Epoch [66/80], Step [200/235], Loss: 0.3554, Accuracy: 84.48%
+测试集准确率: 84.25 %
+Epoch [67/80], Step [50/235], Loss: 0.3801, Accuracy: 84.25%
+测试集准确率: 84.27 %
+Epoch [67/80], Step [100/235], Loss: 0.3230, Accuracy: 84.27%
+测试集准确率: 84.41 %
+Epoch [67/80], Step [150/235], Loss: 0.3567, Accuracy: 84.41%
+测试集准确率: 84.33 %
+Epoch [67/80], Step [200/235], Loss: 0.4087, Accuracy: 84.33%
+测试集准确率: 84.4 %
+Epoch [68/80], Step [50/235], Loss: 0.4467, Accuracy: 84.40%
+测试集准确率: 84.28 %
+Epoch [68/80], Step [100/235], Loss: 0.4474, Accuracy: 84.28%
+测试集准确率: 84.32 %
+Epoch [68/80], Step [150/235], Loss: 0.4700, Accuracy: 84.32%
+测试集准确率: 84.31 %
+Epoch [68/80], Step [200/235], Loss: 0.3483, Accuracy: 84.31%
+测试集准确率: 84.22 %
+Epoch [69/80], Step [50/235], Loss: 0.2709, Accuracy: 84.22%
+测试集准确率: 84.53 %
+Epoch [69/80], Step [100/235], Loss: 0.3238, Accuracy: 84.53%
+测试集准确率: 84.4 %
+Epoch [69/80], Step [150/235], Loss: 0.4085, Accuracy: 84.40%
+测试集准确率: 84.62 %
+Epoch [69/80], Step [200/235], Loss: 0.3369, Accuracy: 84.62%
+测试集准确率: 84.25 %
+Epoch [70/80], Step [50/235], Loss: 0.3383, Accuracy: 84.25%
+测试集准确率: 84.3 %
+Epoch [70/80], Step [100/235], Loss: 0.4276, Accuracy: 84.30%
+测试集准确率: 84.48 %
+Epoch [70/80], Step [150/235], Loss: 0.3528, Accuracy: 84.48%
+测试集准确率: 84.52 %
+Epoch [70/80], Step [200/235], Loss: 0.4187, Accuracy: 84.52%
+测试集准确率: 84.47 %
+Epoch [71/80], Step [50/235], Loss: 0.3106, Accuracy: 84.47%
+测试集准确率: 84.64 %
+Epoch [71/80], Step [100/235], Loss: 0.3772, Accuracy: 84.64%
+测试集准确率: 84.5 %
+Epoch [71/80], Step [150/235], Loss: 0.3765, Accuracy: 84.50%
+测试集准确率: 84.45 %
+Epoch [71/80], Step [200/235], Loss: 0.3846, Accuracy: 84.45%
+测试集准确率: 84.43 %
+Epoch [72/80], Step [50/235], Loss: 0.4063, Accuracy: 84.43%
+测试集准确率: 84.43 %
+Epoch [72/80], Step [100/235], Loss: 0.4111, Accuracy: 84.43%
+测试集准确率: 84.3 %
+Epoch [72/80], Step [150/235], Loss: 0.3808, Accuracy: 84.30%
+测试集准确率: 84.35 %
+Epoch [72/80], Step [200/235], Loss: 0.3784, Accuracy: 84.35%
+测试集准确率: 84.34 %
+Epoch [73/80], Step [50/235], Loss: 0.4621, Accuracy: 84.34%
+测试集准确率: 84.43 %
+Epoch [73/80], Step [100/235], Loss: 0.5356, Accuracy: 84.43%
+测试集准确率: 84.36 %
+Epoch [73/80], Step [150/235], Loss: 0.4046, Accuracy: 84.36%
+测试集准确率: 84.45 %
+Epoch [73/80], Step [200/235], Loss: 0.3428, Accuracy: 84.45%
+测试集准确率: 84.49 %
+Epoch [74/80], Step [50/235], Loss: 0.3851, Accuracy: 84.49%
+测试集准确率: 84.47 %
+Epoch [74/80], Step [100/235], Loss: 0.4301, Accuracy: 84.47%
+测试集准确率: 84.48 %
+Epoch [74/80], Step [150/235], Loss: 0.4112, Accuracy: 84.48%
+测试集准确率: 84.29 %
+Epoch [74/80], Step [200/235], Loss: 0.4361, Accuracy: 84.29%
+测试集准确率: 84.45 %
+Epoch [75/80], Step [50/235], Loss: 0.3353, Accuracy: 84.45%
+测试集准确率: 84.28 %
+Epoch [75/80], Step [100/235], Loss: 0.3250, Accuracy: 84.28%
+测试集准确率: 84.29 %
+Epoch [75/80], Step [150/235], Loss: 0.4358, Accuracy: 84.29%
+测试集准确率: 84.52 %
+Epoch [75/80], Step [200/235], Loss: 0.4354, Accuracy: 84.52%
+测试集准确率: 84.41 %
+Epoch [76/80], Step [50/235], Loss: 0.3688, Accuracy: 84.41%
+测试集准确率: 84.49 %
+Epoch [76/80], Step [100/235], Loss: 0.4310, Accuracy: 84.49%
+测试集准确率: 84.46 %
+Epoch [76/80], Step [150/235], Loss: 0.4971, Accuracy: 84.46%
+测试集准确率: 84.24 %
+Epoch [76/80], Step [200/235], Loss: 0.4468, Accuracy: 84.24%
+测试集准确率: 84.42 %
+Epoch [77/80], Step [50/235], Loss: 0.4288, Accuracy: 84.42%
+测试集准确率: 84.1 %
+Epoch [77/80], Step [100/235], Loss: 0.4125, Accuracy: 84.10%
+测试集准确率: 84.38 %
+Epoch [77/80], Step [150/235], Loss: 0.3919, Accuracy: 84.38%
+测试集准确率: 84.28 %
+Epoch [77/80], Step [200/235], Loss: 0.3510, Accuracy: 84.28%
+测试集准确率: 84.64 %
+Epoch [78/80], Step [50/235], Loss: 0.3317, Accuracy: 84.64%
+测试集准确率: 84.53 %
+Epoch [78/80], Step [100/235], Loss: 0.3690, Accuracy: 84.53%
+测试集准确率: 84.38 %
+Epoch [78/80], Step [150/235], Loss: 0.4872, Accuracy: 84.38%
+测试集准确率: 84.54 %
+Epoch [78/80], Step [200/235], Loss: 0.3423, Accuracy: 84.54%
+测试集准确率: 84.35 %
+Epoch [79/80], Step [50/235], Loss: 0.3609, Accuracy: 84.35%
+测试集准确率: 84.24 %
+Epoch [79/80], Step [100/235], Loss: 0.2845, Accuracy: 84.24%
+测试集准确率: 84.44 %
+Epoch [79/80], Step [150/235], Loss: 0.4080, Accuracy: 84.44%
+测试集准确率: 84.0 %
+Epoch [79/80], Step [200/235], Loss: 0.3743, Accuracy: 84.00%
+测试集准确率: 84.49 %
+Epoch [80/80], Step [50/235], Loss: 0.2741, Accuracy: 84.49%
+测试集准确率: 84.39 %
+Epoch [80/80], Step [100/235], Loss: 0.4124, Accuracy: 84.39%
+测试集准确率: 84.4 %
+Epoch [80/80], Step [150/235], Loss: 0.4337, Accuracy: 84.40%
+测试集准确率: 84.55 %
+Epoch [80/80], Step [200/235], Loss: 0.3417, Accuracy: 84.55%
+Training completed, Best Accuracy: 84.66%
+测试集准确率: 84.66 %
+['0', '1', '2', '3', '4', '5', '6', '7', '8', '9']
+Normalized confusion matrix
